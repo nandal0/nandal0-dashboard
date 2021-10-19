@@ -7,7 +7,7 @@ const Sidebar = () => {
         <div className="sidebar">
             
             
-            <SideIcon Icon={MenuIcon}/>
+            <SideIcon Icon={MenuIcon} />
         </div>
     )
 }
