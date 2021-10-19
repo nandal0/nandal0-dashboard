@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color:rgb(80, 71, 71);
+    color:white;
+    position: sticky;
+    padding-right: 20px;
+}
+.vi{
+    margin-left: 18px;
+    color:white;
+}
+.header_right{
+    margin-left:10px;
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbar{
+    color:black;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 5px;
+
+}
+.searchbar>input{
+    border:none;
+    /* width: ; */
+}

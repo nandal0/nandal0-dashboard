@@ -1,0 +1,9 @@
+.sidebar{
+    flex:0.2;
+    border-right: 1px solid black;
+    height:100vh;
+    display: flex;
+    flex-direction:column;
+    background-color:rgb(190, 185, 185);
+    
+}
