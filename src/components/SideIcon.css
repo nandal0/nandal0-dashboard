@@ -1,0 +1,7 @@
+.sideicon{
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+    cursor: pointer;
+    
+}
